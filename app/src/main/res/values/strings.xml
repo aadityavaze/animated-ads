@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Animated Ads</string>
+    <string name="title_activity_interstitial">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="standard_banner">Standard Banner</string>
+    <string name="full_banner">Full Banner</string>
+    <string name="adaptive_banner">Adaptive Banner</string>
+    <string name="mrec_banner">MRec Banner</string>
+    <string name="interstitial">Interstitial</string>
+    <string-array name="ad_types">
+        <item>@string/adaptive_banner</item>
+        <item>@string/mrec_banner</item>
+        <item>@string/full_banner</item>
+        <item>@string/standard_banner</item>
+        <item>@string/interstitial</item>
+    </string-array>
+    <string-array name="themes">
+        <item>@string/light</item>
+        <item>@string/dark</item>
+
+    </string-array>
+</resources>
